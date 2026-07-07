@@ -2,12 +2,8 @@
 	<b>Net_Practice</b>
 </h1>
 
-<h2 align=center>
-	<i>42cursus</i>
-</h2>
-
 <p align=center>
-	<i>This project has been created as part of the 42 curriculum by <pabalvar></i>
+	<i>This project has been created as part of the 42 curriculum by pabalvar</i>
 </p>
 
 <p align=center>
@@ -16,7 +12,7 @@
 
 ---
 
-<h2 align=center> Index </h2>
+<h2> Index </h2>
 <h3 align="center"><b>
 	<a href="#description">Description</a>
 	<span> • </span>
